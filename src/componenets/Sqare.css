@@ -1,0 +1,19 @@
+.sqare_cont{
+    width:100px;
+    height:100px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+}
+.border_right_bottom{
+border-right: 2px solid #E2EBEF;
+border-bottom: 2px solid #E2EBEF;
+}
+.border_bottom{
+    border-bottom: 2px solid #E2EBEF;
+}
+.border_right{
+    border-right: 2px solid #E2EBEF;
+}
